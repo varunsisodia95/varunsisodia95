@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python projects</b>
-  - <b> Robot framework: </b> [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python)
+  - <b> Using robot framework: </b> [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python)
 - <b>Selenium projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
