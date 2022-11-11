@@ -5,9 +5,7 @@
 - <b>Robot framework with Python</b>
   - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python)
   - [Finding the top IPL teams in a league.]()
-  - [Check website for broken links]()
-  - [Store and retrieve top google search results]()
-  - [Keyword occurance checker]()
+  - [Operations with Google search]()
   - [Cheapest giftcard finder]()
 - <b>Selenium projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
