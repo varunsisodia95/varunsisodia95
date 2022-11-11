@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python projects</b>
-  - <b> Using robot framework: </b> [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python)
+- <b>Robot framework with Python:</b>
+  - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python)
+  - [Finding the top IPL teams in a league] ()
+  - [Check broken links on CrickBuzz website] ()
+  - [Store and retrieve top 10 search results on google] ()
+  - [Calculate number of occurances of keyword on a google search page] ()
+  - [Cheapest gift card finder] ()
 - <b>Selenium projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
