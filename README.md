@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Robot framework with Python</b>
-  - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python)
-  - [Finding the top IPL teams in a league.]()
-  - [Operations with Google search]()
-  - [Cheapest giftcard finder]()
+  - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
+  - [Finding the top IPL teams in a league.](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopIPL)
+  - [Operations with Google search](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopGoogleResults)
+  - [Cheapest giftcard finder](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/CheapestGiftCards)
 - <b>Selenium projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
