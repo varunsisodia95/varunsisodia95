@@ -1,13 +1,13 @@
 <h1>Hi, I'm Varun! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
+<h2>👨‍💻 Portfolio Projects:</h2>
+<h3> Web automation projects </h3>
 - <b>Robot framework with Python</b>
   - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
   - [Finding the top IPL teams in a league.](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopIPL)
   - [Operations with Google search](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopGoogleResults)
   - [Cheapest giftcard finder](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/CheapestGiftCards)
-- <b>Selenium projects</b>
+- <b>Selenium webdriver + Python + Pytest</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -20,6 +20,9 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h3> API testing projects: </h3>
+- <b> REST API testing using Requests libary + PyTest
 
 <h2>📺 Popular YouTube Videos</h2>
 
