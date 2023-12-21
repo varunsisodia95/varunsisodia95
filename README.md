@@ -1,7 +1,7 @@
-<h1>Hi, I'm Varun! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA Professional</a>
+<h1>Hi, I'm Varun! Passionate <a href="https://www.linkedin.com/in/varunsingh-sisodia/">QA professional </a> with a flair for improving quality of products by employing design thinking.
 
-<h2>👨‍💻 Portfolio Projects:</h2>
-<h3> Web automation projects </h3>
+<h2>👨‍💻 Web automation projects</h2>
+
 - <b>Robot framework with Python</b>
   - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
   - [Finding the top IPL teams in a league.](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopIPL)
@@ -9,20 +9,12 @@
   - [Cheapest giftcard finder](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/CheapestGiftCards)
 - <b>Selenium webdriver + Python + Pytest</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h3> API testing projects: </h3>
-- <b> REST API testing using Requests libary + PyTest
+<h2>👨‍💻 API testing projects: </h2>
+
+- <b>REST API testing using Requests libary + PyTest</b>
+  - [PLACEHOLDER](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
+  - [PLACEHOLDER](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
 
 <h2>📺 Popular YouTube Videos</h2>
 
