@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Web automation projects</h2>
 
-- <b>Robot framework with Python</b>
+- <b>Robot framework + Python</b>
   - [Testing banking operations](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
   - [Finding the top IPL teams in a league.](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopIPL)
   - [Operations with Google search](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TopGoogleResults)
   - [Cheapest giftcard finder](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/CheapestGiftCards)
 - <b>Selenium webdriver + Python + Pytest</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Search engine automation](https://github.com/varunsisodia95/PytestWebAutomation/tree/master)
 
 <h2>👨‍💻 API testing projects: </h2>
 
