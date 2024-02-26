@@ -12,8 +12,8 @@
 
 <h2>👨‍💻 API testing projects: </h2>
 
-- <b>REST API testing using Requests libary + PyTest</b>
-  - [PLACEHOLDER](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
+- <b>REST API testing using PyTest</b>
+  - [Flask web app API testing](https://github.com/varunsisodia95/PytestAPIautomation)
   - [PLACEHOLDER](https://github.com/varunsisodia95/Robot-framework-with-python/tree/main/TestingBankOperations)
 
 <h2>📺 Popular YouTube Videos</h2>
